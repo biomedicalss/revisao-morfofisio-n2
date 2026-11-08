@@ -2,8 +2,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "O sistema muscular desempenha funções importantes na homeostasia. Assinale a alternativa que apresenta uma função desse sistema.",
-    "imagem": "",
+    "enunciado": "O sistema muscular desempenha funções importantes na homeostasia. Qual é uma dessas funções?",
+    "imagem": "images/flexao-cotovelo.svg",
     "alternativas": [
       "Produzir bile para a digestão.",
       "Realizar filtração do plasma sanguíneo.",
@@ -12,27 +12,31 @@
       "Conduzir diretamente os impulsos elétricos cardíacos."
     ],
     "correta": 2,
-    "explicacao": "A) A bile é produzida pelo fígado, não pelo sistema muscular.\nB) A filtração do plasma é função dos rins.\nC) (correta) Contrações musculares promovem movimento e também liberam calor.\nD) O suor é produzido pelas glândulas sudoríferas do sistema tegumentar.\nE) A condução elétrica do coração ocorre por células especializadas do sistema de condução cardíaco; não é função geral do sistema muscular."
+    "explicacao": "A) ✗ A bile é produzida pelo fígado.\nB) ✗ A filtração do plasma ocorre nos rins.\nC) ✓ A contração muscular produz movimento e contribui para a produção de calor.\nD) ✗ A secreção de suor é função das glândulas sudoríferas.\nE) ✗ O sistema de condução cardíaca apresenta células especializadas; não é a função geral do sistema muscular.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Sobre os tipos de tecido muscular, assinale a alternativa correta.",
-    "imagem": "",
+    "enunciado": "No esquema, qual alternativa identifica corretamente o tecido marcado pela letra C?",
+    "imagem": "images/tipos-tecido-muscular.svg",
     "alternativas": [
-      "O estriado esquelético é involuntário.",
-      "O tecido liso é estriado e voluntário.",
-      "O estriado cardíaco é encontrado no coração.",
-      "O tecido cardíaco forma os tendões.",
-      "O músculo liso é exclusivo dos ossos."
+      "Músculo liso e voluntário.",
+      "Músculo estriado esquelético e involuntário.",
+      "Músculo estriado cardíaco, presente no coração.",
+      "Tecido conjuntivo de tendões.",
+      "Músculo liso exclusivo dos ossos."
     ],
     "correta": 2,
-    "explicacao": "A) O músculo estriado esquelético é geralmente voluntário.\nB) O músculo liso não tem estriações e sua contração é involuntária.\nC) (correta) O músculo estriado cardíaco constitui o miocárdio.\nD) Os tendões são tecido conjuntivo rico em colágeno, não tecido muscular cardíaco.\nE) O músculo liso está em paredes de órgãos e vasos, não exclusivamente nos ossos."
+    "explicacao": "A) ✗ O músculo liso é involuntário e não estriado.\nB) ✗ O músculo estriado esquelético é geralmente voluntário e aparece como fibras paralelas, não ramificadas.\nC) ✓ A figura C mostra fibras estriadas ramificadas, características do músculo cardíaco.\nD) ✗ Tendões são estruturas conjuntivas, não fibras musculares ramificadas.\nE) ✗ O músculo liso está em vários órgãos e vasos.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Na figura, a estrutura indicada pelo número 1, formada principalmente por colágeno, liga o músculo esquelético ao osso. Ela é:",
+    "enunciado": "Na ilustração, a estrutura marcada com o número 1 é formada principalmente por colágeno e liga músculo ao osso. Qual é o nome?",
     "imagem": "images/musculo-esqueletico.jpg",
     "alternativas": [
       "Sarcolema.",
@@ -42,28 +46,32 @@
       "Ventre muscular."
     ],
     "correta": 1,
-    "explicacao": "A) Sarcolema é a membrana da fibra muscular.\nB) (correta) O tendão é tecido conjuntivo rico em colágeno que transmite a força do músculo ao osso.\nC) Sarcoplasma é o citoplasma da fibra muscular.\nD) Miofibrilas são estruturas contráteis internas da fibra muscular.\nE) Ventre muscular é a porção carnosa e contrátil, não a estrutura de ligação."
+    "explicacao": "A) ✗ Membrana plasmática da fibra muscular.\nB) ✓ Tendão transmite a força muscular ao osso e é rico em colágeno.\nC) ✗ Citoplasma da fibra muscular.\nD) ✗ Estruturas contráteis dentro das fibras.\nE) ✗ Parte carnosa e contrátil do músculo.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Na organização do músculo esquelético, a camada conjuntiva que envolve individualmente cada fibra é:",
-    "imagem": "",
+    "enunciado": "No esquema de organização muscular, qual tecido conjuntivo envolve individualmente cada fibra muscular (letra C)?",
+    "imagem": "images/envoltorios-musculares.svg",
     "alternativas": [
       "Epimísio.",
       "Perimísio.",
-      "Fáscia.",
+      "Fáscia superficial.",
       "Endomísio.",
       "Pericárdio."
     ],
     "correta": 3,
-    "explicacao": "A) Epimísio envolve o músculo inteiro.\nB) Perimísio envolve os fascículos (conjuntos de fibras).\nC) A fáscia reveste o músculo externamente, mas não individualiza cada fibra.\nD) (correta) Endomísio envolve e separa individualmente as fibras musculares.\nE) Pericárdio é o envoltório do coração, não de cada fibra esquelética."
+    "explicacao": "A) ✗ Envolve o músculo inteiro.\nB) ✗ Envolve cada fascículo muscular.\nC) ✗ A fáscia é um envoltório mais externo.\nD) ✓ O endomísio circunda cada fibra muscular.\nE) ✗ Revestimento do coração, não da fibra esquelética.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Durante a flexão do cotovelo, o bíceps braquial atua principalmente como:",
-    "imagem": "",
+    "enunciado": "No movimento ilustrado, o bíceps braquial contribui diretamente para flexionar o cotovelo. Como é classificado nesta ação?",
+    "imagem": "images/flexao-cotovelo.svg",
     "alternativas": [
       "Agonista.",
       "Antagonista principal da flexão.",
@@ -72,12 +80,14 @@
       "Músculo cardíaco."
     ],
     "correta": 0,
-    "explicacao": "A) (correta) O bíceps braquial é um dos principais agonistas da flexão do cotovelo.\nB) Antagonistas se opõem ao movimento; o bíceps não é o antagonista principal da flexão.\nC) O bíceps braquial é músculo estriado esquelético, não liso.\nD) Ele atua sobre o cotovelo, não como fixador do joelho.\nE) Não é músculo cardíaco: situa-se no braço."
+    "explicacao": "A) ✓ O agonista atua na produção do movimento estudado.\nB) ✗ Antagonistas se opõem ao movimento.\nC) ✗ O bíceps é estriado esquelético.\nD) ✗ Não estabiliza o joelho na flexão do cotovelo.\nE) ✗ Não constitui o músculo do coração.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Na figura do modelo anatômico, o músculo indicado pelo número 1, na região anterior do tórax e com ampla participação nos movimentos do braço, é o:",
+    "enunciado": "Na imagem do modelo anatômico, qual músculo está indicado pelo número 1 na região anterior do tórax?",
     "imagem": "images/torax-muscular.jpg",
     "alternativas": [
       "Glúteo máximo.",
@@ -87,12 +97,14 @@
       "Bíceps femoral."
     ],
     "correta": 2,
-    "explicacao": "A) Glúteo máximo situa-se na região glútea.\nB) Tibial anterior situa-se na perna.\nC) (correta) O peitoral maior é um músculo volumoso da região anterior do tórax, destacado no roteiro.\nD) Masseter é um músculo da mastigação na face.\nE) Bíceps femoral situa-se na região posterior da coxa."
+    "explicacao": "A) ✗ Localizado na região glútea.\nB) ✗ Localizado na face anterior da perna.\nC) ✓ O peitoral maior é o músculo superficial amplo do tórax mostrado.\nD) ✗ Localiza-se na face, atuando na mastigação.\nE) ✗ Localiza-se na região posterior da coxa.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "O músculo da face destacado em vermelho na figura, relacionado à mastigação, é o:",
+    "enunciado": "Observe a ilustração lateral da cabeça. Qual músculo superficial, destacado na região do ramo da mandíbula, eleva a mandíbula na mastigação?",
     "imagem": "images/masseter.jpg",
     "alternativas": [
       "Orbicular do olho.",
@@ -102,12 +114,14 @@
       "Serrátil anterior."
     ],
     "correta": 1,
-    "explicacao": "A) Orbicular do olho atua no fechamento das pálpebras.\nB) (correta) O masseter auxilia na elevação da mandíbula durante a mastigação.\nC) Reto do abdome atua na parede abdominal.\nD) Trapézio atua em movimentos da escápula e do pescoço.\nE) Serrátil anterior atua na estabilização e movimentação da escápula."
+    "explicacao": "A) ✗ Fecha as pálpebras.\nB) ✓ O masseter eleva a mandíbula.\nC) ✗ Músculo abdominal.\nD) ✗ Atua na escápula e no pescoço.\nE) ✗ Movimenta e estabiliza a escápula.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "O músculo destacado em laranja na região anterior da perna, importante na dorsiflexão do pé, é:",
+    "enunciado": "Na imagem das pernas, o músculo destacado à frente da tíbia atua na dorsiflexão do pé. Ele é:",
     "imagem": "images/tibial-anterior.jpg",
     "alternativas": [
       "Gastrocnêmio lateral.",
@@ -117,28 +131,32 @@
       "Temporal."
     ],
     "correta": 3,
-    "explicacao": "A) Gastrocnêmio está associado principalmente à flexão plantar do tornozelo.\nB) Bíceps femoral participa da flexão do joelho e extensão do quadril.\nC) Glúteo máximo é importante para a extensão do quadril.\nD) (correta) Tibial anterior, na região anterior da perna, realiza a dorsiflexão do pé.\nE) Temporal é músculo da mastigação."
+    "explicacao": "A) ✗ Atua principalmente na flexão plantar.\nB) ✗ Localiza-se na coxa posterior.\nC) ✗ Localiza-se na região glútea.\nD) ✓ O tibial anterior eleva o dorso do pé.\nE) ✗ Músculo da cabeça.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "A respeito do sistema tegumentar, assinale a alternativa correta.",
-    "imagem": "",
+    "enunciado": "Observe o esquema da pele. Qual alternativa descreve uma função do sistema tegumentar?",
+    "imagem": "images/pele-funcoes.svg",
     "alternativas": [
-      "A pele não participa da percepção sensorial.",
-      "A pele é formada somente pela hipoderme.",
-      "A pele participa da proteção e da regulação térmica.",
-      "As unhas são estruturas do sistema cardiovascular.",
-      "A derme é composta exclusivamente por epitélio."
+      "Não participa da sensibilidade.",
+      "É formado somente pela hipoderme.",
+      "Protege o corpo e auxilia na regulação térmica.",
+      "As unhas integram o sistema cardiovascular.",
+      "A derme é exclusivamente epitelial."
     ],
     "correta": 2,
-    "explicacao": "A) A pele tem receptores sensitivos e participa da percepção de estímulos.\nB) A pele é formada por epiderme e derme; a hipoderme fica abaixo dela.\nC) (correta) A pele funciona como barreira e participa da termorregulação.\nD) Unhas integram os anexos do sistema tegumentar.\nE) A derme é constituída principalmente por tecido conjuntivo, não exclusivamente por epitélio."
+    "explicacao": "A) ✗ A pele possui receptores sensoriais.\nB) ✗ A pele é formada por epiderme e derme; hipoderme fica abaixo.\nC) ✓ Barreira física, sudorese e mecanismos vasculares contribuem para proteção e temperatura.\nD) ✗ As unhas são anexos do tegumento.\nE) ✗ A derme é predominantemente tecido conjuntivo.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "A camada mais superficial da pele, formada por tecido epitelial, recebe o nome de:",
-    "imagem": "",
+    "enunciado": "No corte esquemático da pele, a camada A é superficial e composta de tecido epitelial. Qual é sua denominação?",
+    "imagem": "images/pele.jpg",
     "alternativas": [
       "Derme.",
       "Hipoderme.",
@@ -147,28 +165,32 @@
       "Perimísio."
     ],
     "correta": 3,
-    "explicacao": "A) Derme é a camada conjuntiva, mais profunda que a epiderme.\nB) Hipoderme é a tela subcutânea sob a derme.\nC) Miocárdio é a camada muscular da parede cardíaca.\nD) (correta) A epiderme é a camada superficial, de natureza epitelial.\nE) Perimísio é um envoltório do músculo esquelético."
+    "explicacao": "A) ✗ Derme é camada conjuntiva abaixo da epiderme.\nB) ✗ Hipoderme é tela subcutânea inferior à derme.\nC) ✗ Miocárdio é músculo cardíaco.\nD) ✓ Epiderme é a camada epitelial mais superficial da pele.\nE) ✗ Perimísio pertence ao músculo esquelético.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "A hipoderme, de acordo com o material da aula, é:",
-    "imagem": "",
+    "enunciado": "No corte da pele, qual estrutura corresponde à letra C, localizada abaixo da derme?",
+    "imagem": "images/pele.jpg",
     "alternativas": [
-      "A camada mais superficial da epiderme.",
-      "Uma tela subcutânea abaixo da derme, sem integrar propriamente a pele.",
-      "Uma parte do músculo cardíaco.",
-      "Uma glândula sudorífera.",
-      "O mesmo que estrato córneo."
+      "Camada córnea.",
+      "Tela subcutânea (hipoderme).",
+      "Músculo cardíaco.",
+      "Glândula sudorífera.",
+      "Estrato basal."
     ],
     "correta": 1,
-    "explicacao": "A) A camada superficial da epiderme é o estrato córneo, não a hipoderme.\nB) (correta) A hipoderme é a tela subcutânea abaixo da derme, não considerada parte da pele propriamente dita nos slides.\nC) Não compõe o músculo cardíaco.\nD) Não é uma glândula, mas uma região de tecidos subcutâneos.\nE) Estrato córneo é uma camada epidérmica, diferente da hipoderme."
+    "explicacao": "A) ✗ A camada córnea é parte superficial da epiderme.\nB) ✓ Hipoderme fica abaixo da derme e não integra as duas camadas principais da pele.\nC) ✗ Miocárdio pertence ao coração.\nD) ✗ Glândula está no tegumento, mas não designa toda a camada C.\nE) ✗ O estrato basal situa-se na epiderme.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "Qual alternativa apresenta a sequência das camadas epidérmicas da mais profunda para a mais superficial, considerando a pele espessa?",
-    "imagem": "",
+    "enunciado": "No esquema da epiderme de pele espessa, qual sequência corresponde às camadas 5 até 1 (da mais profunda à mais superficial)?",
+    "imagem": "images/camadas-epiderme.svg",
     "alternativas": [
       "Córnea, lúcida, granulosa, espinhosa, basal.",
       "Basal, espinhosa, granulosa, lúcida, córnea.",
@@ -177,13 +199,15 @@
       "Lúcida, basal, granulosa, espinhosa, córnea."
     ],
     "correta": 1,
-    "explicacao": "A) Apresenta a ordem invertida (da superfície para a profundidade).\nB) (correta) Da profundidade à superfície: basal, espinhosa, granulosa, lúcida e córnea.\nC) Inclui derme e hipoderme, que não são estratos da epiderme.\nD) Coloca a espinhosa antes da basal e mistura a sequência.\nE) Começa pela lúcida, embora a basal seja a mais profunda."
+    "explicacao": "A) ✗ Está no sentido superficial para profundo, não o solicitado.\nB) ✓ A sequência correta é basal → espinhosa → granulosa → lúcida → córnea.\nC) ✗ Derme e hipoderme não são estratos epidérmicos.\nD) ✗ Os estratos estão fora da ordem anatômica.\nE) ✗ A camada lúcida não é a mais profunda.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "A valva atrioventricular direita é conhecida como:",
-    "imagem": "",
+    "enunciado": "No esquema das cavidades cardíacas, a valva A entre átrio e ventrículo direitos é a:",
+    "imagem": "images/estruturas-coracao.svg",
     "alternativas": [
       "Mitral.",
       "Aórtica.",
@@ -192,28 +216,32 @@
       "Semilunar esquerda."
     ],
     "correta": 3,
-    "explicacao": "A) Mitral é a valva atrioventricular esquerda.\nB) Valva aórtica fica na saída do ventrículo esquerdo.\nC) Valva pulmonar fica na saída do ventrículo direito.\nD) (correta) A tricúspide separa o átrio direito do ventrículo direito.\nE) “Semilunar esquerda” não é nome da valva atrioventricular direita."
+    "explicacao": "A) ✗ Mitral fica do lado esquerdo.\nB) ✗ Aórtica está na saída do ventrículo esquerdo.\nC) ✗ Pulmonar fica na saída do ventrículo direito.\nD) ✓ Tricúspide é a valva atrioventricular direita.\nE) ✗ Não é a denominação da valva atrioventricular direita.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "A valva atrioventricular esquerda também é chamada de:",
-    "imagem": "",
+    "enunciado": "No mesmo esquema, a valva B entre átrio e ventrículo esquerdos também é chamada de:",
+    "imagem": "images/estruturas-coracao.svg",
     "alternativas": [
       "Mitral ou bicúspide.",
       "Tricúspide.",
       "Pulmonar.",
       "Aórtica.",
-      "Cava superior."
+      "Veia cava superior."
     ],
     "correta": 0,
-    "explicacao": "A) (correta) Mitral, ou bicúspide, situa-se entre átrio e ventrículo esquerdos.\nB) Tricúspide situa-se à direita.\nC) Pulmonar situa-se entre ventrículo direito e tronco pulmonar.\nD) Aórtica situa-se entre ventrículo esquerdo e aorta.\nE) Cava superior é veia que desemboca no átrio direito, não uma valva."
+    "explicacao": "A) ✓ Mitral/bicúspide é a valva atrioventricular esquerda.\nB) ✗ Tricúspide fica à direita.\nC) ✗ Pulmonar é semilunar e está na saída do ventrículo direito.\nD) ✗ Aórtica é semilunar e está na saída do ventrículo esquerdo.\nE) ✗ A veia cava é um vaso, não uma valva.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "O vaso que leva sangue do ventrículo direito em direção aos pulmões é:",
-    "imagem": "",
+    "enunciado": "Na imagem do coração, o número 4 indica um vaso que sai do ventrículo direito em direção aos pulmões. Qual é?",
+    "imagem": "images/coracao.jpg",
     "alternativas": [
       "Aorta.",
       "Veia cava inferior.",
@@ -222,13 +250,15 @@
       "Artéria carótida esquerda."
     ],
     "correta": 2,
-    "explicacao": "A) Aorta sai do ventrículo esquerdo e leva sangue à circulação sistêmica.\nB) Veia cava inferior retorna sangue venoso ao átrio direito.\nC) (correta) O tronco pulmonar recebe sangue do ventrículo direito e se divide nas artérias pulmonares.\nD) Veias pulmonares trazem sangue dos pulmões ao átrio esquerdo.\nE) Carótida esquerda é um ramo arterial da circulação sistêmica."
+    "explicacao": "A) ✗ Aorta sai do ventrículo esquerdo.\nB) ✗ Veia cava inferior chega ao átrio direito.\nC) ✓ O tronco pulmonar conduz sangue do ventrículo direito aos pulmões.\nD) ✗ Veias pulmonares retornam dos pulmões ao átrio esquerdo.\nE) ✗ Artéria carótida irriga a região da cabeça.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "Qual estrutura funciona como marcapasso natural do coração?",
-    "imagem": "",
+    "enunciado": "Qual estrutura marcada com a letra A no esquema de condução inicia normalmente os impulsos elétricos do coração?",
+    "imagem": "images/conducao-coracao.svg",
     "alternativas": [
       "Feixe de His.",
       "Nó sinoatrial.",
@@ -237,291 +267,314 @@
       "Cordas tendíneas."
     ],
     "correta": 1,
-    "explicacao": "A) Feixe de His transmite impulsos para os ventrículos, mas não é o marcapasso principal.\nB) (correta) O nó sinoatrial gera espontaneamente impulsos rítmicos que iniciam os batimentos.\nC) Valva mitral controla a passagem de sangue entre átrio e ventrículo esquerdos.\nD) Septo interventricular separa os dois ventrículos.\nE) Cordas tendíneas ajudam a estabilizar as valvas atrioventriculares."
+    "explicacao": "A) ✗ Conduz impulsos em direção aos ventrículos, após o nó AV.\nB) ✓ O nó sinoatrial é o marcapasso natural.\nC) ✗ Valva cardíaca, não centro gerador de impulsos.\nD) ✗ Septo separa os ventrículos.\nE) ✗ As cordas sustentam valvas atrioventriculares.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Sobre o tecido muscular, julgue as afirmativas como verdadeiras (V) ou falsas (F) e assinale a sequência correta:\n( ) O epimísio envolve todo o músculo.\n( ) O perimísio envolve fascículos.\n( ) O endomísio envolve individualmente as fibras.\n( ) O músculo liso possui estriações visíveis como o esquelético.",
-    "imagem": "",
+    "enunciado": "Julgue as afirmativas e assinale a sequência correta:\n(1) O epimísio envolve todo o músculo.\n(2) O perimísio envolve fascículos.\n(3) O endomísio envolve individualmente as fibras.\n(4) O músculo liso possui estriações visíveis como o esquelético.",
+    "imagem": "images/envoltorios-musculares.svg",
     "alternativas": [
-      "V - F - V - F",
-      "V - V - V - F",
-      "F - V - V - F",
-      "V - V - F - V",
-      "F - F - V - V"
+      "V – F – V – F",
+      "V – V – V – F",
+      "F – V – V – F",
+      "V – V – F – V",
+      "F – F – V – V"
     ],
     "correta": 1,
-    "explicacao": "I - V: epimísio envolve todo o músculo.\nII - V: perimísio envolve os fascículos.\nIII - V: endomísio envolve cada fibra.\nIV - F: músculo liso não tem estriações transversais visíveis."
+    "explicacao": "2. V: epimísio é o envoltório externo do músculo.\n3. V: perimísio circunda os fascículos.\n4. V: endomísio separa fibras musculares.\n5. F: músculo liso não apresenta estriações transversais.",
+    "tipo": "vf"
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "Sobre a pele e suas estruturas, julgue as afirmativas como verdadeiras (V) ou falsas (F) e assinale a sequência correta:\n( ) A epiderme corresponde à parte mais superficial da pele.\n( ) A derme é constituída por tecido conjuntivo.\n( ) A hipoderme é considerada uma das duas camadas principais da pele no material.\n( ) O sistema tegumentar está relacionado à sensação cutânea.",
-    "imagem": "",
+    "enunciado": "Julgue as afirmativas e assinale a sequência correta:\n(1) A epiderme corresponde à parte mais superficial da pele.\n(2) A derme é constituída por tecido conjuntivo.\n(3) A hipoderme compõe uma das duas camadas principais da pele.\n(4) O sistema tegumentar participa da sensibilidade cutânea.",
+    "imagem": "images/pele.jpg",
     "alternativas": [
-      "F - V - F - V",
-      "V - F - F - V",
-      "V - V - V - F",
-      "V - V - F - V",
-      "F - F - V - V"
+      "F – V – F – V",
+      "V – F – F – V",
+      "V – V – V – F",
+      "V – V – F – V",
+      "F – F – V – V"
     ],
     "correta": 3,
-    "explicacao": "I - V: epiderme é a porção mais superficial da pele.\nII - V: derme é composta por tecido conjuntivo.\nIII - F: a hipoderme fica abaixo da derme e, segundo os slides, não integra as duas camadas principais da pele.\nIV - V: receptores e terminações nervosas da pele permitem a sensibilidade cutânea."
+    "explicacao": "2. V: a epiderme é a camada epitelial superficial.\n3. V: a derme é conjuntiva.\n4. F: as duas camadas principais da pele são epiderme e derme; a hipoderme é subcutânea.\n5. V: a pele contém receptores sensitivos.",
+    "tipo": "vf"
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "Sobre o coração e a circulação, julgue as afirmativas como verdadeiras (V) ou falsas (F) e assinale a sequência correta:\n( ) Na sístole, ocorre contração e ejeção de sangue.\n( ) Na diástole, ocorre relaxamento cardíaco e enchimento.\n( ) A valva mitral situa-se entre átrio e ventrículo direitos.\n( ) O feixe atrioventricular participa da condução elétrica aos ventrículos.",
-    "imagem": "",
+    "enunciado": "Julgue as afirmativas e assinale a sequência correta:\n(1) Na sístole ventricular, ocorre contração e ejeção de sangue.\n(2) Na diástole ventricular, ocorre relaxamento e enchimento.\n(3) A valva mitral situa-se entre átrio e ventrículo direitos.\n(4) O feixe atrioventricular participa da condução elétrica aos ventrículos.",
+    "imagem": "images/conducao-coracao.svg",
     "alternativas": [
-      "V - V - F - V",
-      "V - F - F - V",
-      "F - V - V - F",
-      "V - V - V - F",
-      "F - F - V - V"
+      "V – V – F – V",
+      "V – F – F – V",
+      "F – V – V – F",
+      "V – V – V – F",
+      "F – F – V – V"
     ],
     "correta": 0,
-    "explicacao": "I - V: sístole é a contração, associada à ejeção de sangue.\nII - V: diástole é o relaxamento e enchimento das cavidades.\nIII - F: a mitral fica entre átrio e ventrículo ESQUERDOS; à direita está a tricúspide.\nIV - V: o feixe AV (de His) conduz o impulso aos ramos ventriculares e fibras de Purkinje."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema muscular",
-    "enunciado": "Durante a flexão do cotovelo, o músculo que atua como antagonista, realizando o movimento oposto (extensão), é o:",
-    "imagem": "",
-    "alternativas": [
-      "Bíceps braquial.",
-      "Tríceps braquial.",
-      "Peitoral maior.",
-      "Masseter.",
-      "Tibial anterior."
-    ],
-    "correta": 1,
-    "explicacao": "O tríceps braquial estende o cotovelo e se opõe ao bíceps, que é o agonista da flexão."
+    "explicacao": "2. V: a sístole ventricular impulsiona sangue para artérias.\n3. V: na diástole os ventrículos relaxam e recebem sangue.\n4. F: a mitral fica entre átrio e ventrículo esquerdos.\n5. V: o feixe de His conduz impulsos aos ramos ventriculares.",
+    "tipo": "vf"
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "Na figura, qual é a estrutura anexa da pele indicada pela letra J, responsável pela produção do suor?",
+    "enunciado": "Explique as diferenças entre epiderme, derme e hipoderme, indicando a posição de cada uma e seus tecidos predominantes.",
+    "imagem": "images/pele.jpg",
+    "alternativas": [],
+    "correta": null,
+    "explicacao": "Epiderme: camada superficial da pele, formada por epitélio estratificado pavimentoso queratinizado. Derme: camada mais profunda da pele, predominantemente conjuntiva, com vasos, glândulas e receptores. Hipoderme: tela subcutânea abaixo da derme, geralmente com tecido adiposo e conjuntivo; não integra as duas camadas principais da pele.\n\nPontos esperados:\n• Diferenciar corretamente as localizações.\n• Identificar tecido epitelial na epiderme.\n• Identificar tecido conjuntivo na derme.\n• Reconhecer o tecido subcutâneo da hipoderme.",
+    "tipo": "discursiva"
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Descreva o caminho do sangue das veias cavas até a aorta, incluindo câmaras, valvas e os pulmões.",
+    "imagem": "images/fluxo-sanguineo.svg",
+    "alternativas": [],
+    "correta": null,
+    "explicacao": "Veias cavas → átrio direito → valva tricúspide → ventrículo direito → valva pulmonar → tronco/artérias pulmonares → pulmões → veias pulmonares → átrio esquerdo → valva mitral → ventrículo esquerdo → valva aórtica → aorta.\n\nPontos esperados:\n• Passagem pelas câmaras direitas e pela valva tricúspide.\n• Passagem pela circulação pulmonar e retorno pelas veias pulmonares.\n• Passagem pelas câmaras esquerdas e pela valva mitral.\n• Saída pela valva aórtica e aorta.",
+    "tipo": "discursiva"
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Na imagem do músculo lateral da mandíbula, qual ação está associada ao músculo masseter?",
+    "imagem": "images/masseter.jpg",
+    "alternativas": [
+      "Extensão do joelho.",
+      "Elevação da mandíbula.",
+      "Dorsiflexão do pé.",
+      "Contração da pupila.",
+      "Flexão plantar."
+    ],
+    "correta": 1,
+    "explicacao": "A) ✗ A extensão do joelho envolve músculos da coxa anterior.\nB) ✓ O masseter é músculo importante na elevação da mandíbula.\nC) ✗ Dorsiflexão é função de músculos anteriores da perna.\nD) ✗ Músculos internos do olho controlam a pupila.\nE) ✗ Flexão plantar depende principalmente de músculos posteriores da perna.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Qual função está associada ao músculo peitoral maior observado no modelo anatômico?",
+    "imagem": "images/torax-muscular.jpg",
+    "alternativas": [
+      "Movimentar o braço, contribuindo para adução e rotação medial.",
+      "Elevar a mandíbula.",
+      "Flexionar os dedos do pé.",
+      "Separar átrios cardíacos.",
+      "Secretar suor."
+    ],
+    "correta": 0,
+    "explicacao": "A) ✓ Peitoral maior atua sobre a articulação do ombro.\nB) ✗ Masseter eleva a mandíbula.\nC) ✗ Músculos da perna e pé participam desse movimento.\nD) ✗ O septo interatrial separa os átrios.\nE) ✗ Glândulas sudoríferas secretam suor.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Na figura da perna, qual movimento é produzido principalmente pelo tibial anterior?",
+    "imagem": "images/tibial-anterior.jpg",
+    "alternativas": [
+      "Flexão plantar.",
+      "Extensão do joelho.",
+      "Elevação da mandíbula.",
+      "Dorsiflexão do pé.",
+      "Flexão do cotovelo."
+    ],
+    "correta": 3,
+    "explicacao": "A) ✗ Flexão plantar é feita principalmente pelo tríceps sural.\nB) ✗ Extensão do joelho é função do quadríceps femoral.\nC) ✗ Masseter participa da mastigação.\nD) ✓ O tibial anterior realiza dorsiflexão e auxilia na inversão do pé.\nE) ✗ Bíceps e braquial atuam na flexão do cotovelo.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Na ilustração, qual estrutura representa o ventre muscular, ou seja, a parte carnosa e contrátil indicada pelo número 2?",
+    "imagem": "images/musculo-esqueletico.jpg",
+    "alternativas": [
+      "O tendão branco.",
+      "O osso longo.",
+      "A região vermelha contrátil do músculo.",
+      "O revestimento do coração.",
+      "O tecido adiposo subcutâneo."
+    ],
+    "correta": 2,
+    "explicacao": "A) ✗ Tendão conecta músculo a osso.\nB) ✗ Osso é parte do esqueleto.\nC) ✓ Ventre muscular corresponde ao corpo contrátil, marcado em vermelho.\nD) ✗ Pericárdio reveste o coração.\nE) ✗ Adiposo subcutâneo não é a porção contrátil do músculo.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Observe os padrões A, B e C dos tecidos. Qual letra apresenta tecido muscular liso?",
+    "imagem": "images/tipos-tecido-muscular.svg",
+    "alternativas": [
+      "A, pelas estriações paralelas.",
+      "B, pelas células fusiformes sem estriações.",
+      "C, pelas fibras ramificadas e estriadas.",
+      "A e C, por serem não estriados.",
+      "Nenhuma, porque todos são tecidos ósseos."
+    ],
+    "correta": 1,
+    "explicacao": "A) ✗ A representa tecido muscular estriado esquelético.\nB) ✓ B apresenta células fusiformes e ausência de estriações, típico do liso.\nC) ✗ C representa tecido estriado cardíaco.\nD) ✗ A e C são estriados.\nE) ✗ Os três desenhos representam tecido muscular.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "Na ilustração da pele, qual estrutura marcada com a letra D se projeta acima da superfície cutânea?",
     "imagem": "images/pele.jpg",
     "alternativas": [
-      "Glândulas sebáceas.",
-      "Folículos pilosos.",
-      "Unhas.",
-      "Glândulas sudoríferas.",
+      "Glândula sebácea.",
+      "Nervo sensitivo.",
+      "Folículo linfático.",
+      "Haste do pelo.",
+      "Valva cardíaca."
+    ],
+    "correta": 3,
+    "explicacao": "A) ✗ A glândula sebácea fica associada ao folículo, dentro da pele.\nB) ✗ Nervos não formam a haste externa do pelo.\nC) ✗ Não é a estrutura indicada.\nD) ✓ A letra D aponta para a haste do pelo.\nE) ✗ Valvas cardíacas não são anexos cutâneos.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "Na figura, a estrutura indicada pela letra E fica associada a um folículo piloso e secreta substância oleosa. Ela é:",
+    "imagem": "images/pele.jpg",
+    "alternativas": [
+      "Glândula sebácea.",
+      "Glândula sudorífera.",
+      "Músculo cardíaco.",
+      "Corpúsculo renal.",
+      "Epiderme inteira."
+    ],
+    "correta": 0,
+    "explicacao": "A) ✓ Glândula sebácea produz sebo e costuma desembocar no folículo piloso.\nB) ✗ Glândulas sudoríferas produzem suor e têm outro aspecto.\nC) ✗ Não é tecido muscular cardíaco.\nD) ✗ O corpúsculo renal é do rim.\nE) ✗ A epiderme é camada, não glândula.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "Na figura, a estrutura enrolada indicada pela letra J é uma:",
+    "imagem": "images/pele.jpg",
+    "alternativas": [
+      "Glândula sebácea.",
+      "Artéria aorta.",
+      "Glândula sudorífera.",
+      "Válvula atrioventricular.",
+      "Fascículo muscular."
+    ],
+    "correta": 2,
+    "explicacao": "A) ✗ Sebáceas ficam ligadas ao folículo piloso e não têm formato tubular enovelado desse modo.\nB) ✗ A aorta é vaso do coração.\nC) ✓ A glândula sudorífera tem porção secretora tubular enovelada e produz suor.\nD) ✗ Valvas cardíacas não ficam na pele.\nE) ✗ Fascículo muscular é conjunto de fibras musculares.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "No esquema de pele espessa, qual estrato é representado pelo número 2, imediatamente profundo ao córneo?",
+    "imagem": "images/camadas-epiderme.svg",
+    "alternativas": [
+      "Basal.",
+      "Lúcido.",
+      "Espinhoso.",
+      "Derme.",
       "Hipoderme."
     ],
-    "correta": 3,
-    "explicacao": "As glândulas sudoríferas produzem o suor, que participa da termorregulação."
+    "correta": 1,
+    "explicacao": "A) ✗ Basal é o estrato profundo da epiderme.\nB) ✓ Lúcido fica entre córneo e granuloso na pele espessa.\nC) ✗ Espinhoso é mais profundo.\nD) ✗ Derme não é estrato epidérmico.\nE) ✗ Hipoderme está abaixo da derme.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "As veias pulmonares trazem sangue dos pulmões e desembocam no:",
-    "imagem": "",
-    "alternativas": [
-      "Átrio direito.",
-      "Ventrículo direito.",
-      "Átrio esquerdo.",
-      "Ventrículo esquerdo.",
-      "Tronco pulmonar."
-    ],
-    "correta": 2,
-    "explicacao": "As veias pulmonares chegam ao átrio esquerdo; dali o sangue passa pela valva mitral ao ventrículo esquerdo."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema cardiovascular",
-    "enunciado": "Na sístole ventricular, o que ocorre?",
-    "imagem": "",
-    "alternativas": [
-      "Relaxamento e enchimento das câmaras.",
-      "Contração e ejeção de sangue.",
-      "Fechamento do nó sinoatrial.",
-      "Passagem de sangue das veias para o átrio sem controle valvar.",
-      "Parada da condução elétrica."
-    ],
-    "correta": 1,
-    "explicacao": "A sístole é a contração, com ejeção do sangue. O relaxamento com enchimento é a diástole."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema tegumentar",
-    "enunciado": "Na figura, que mostra um corte da pele, a camada indicada pela letra A é a:",
-    "imagem": "images/pele.jpg",
-    "alternativas": [
-      "Derme.",
-      "Hipoderme.",
-      "Epiderme.",
-      "Fáscia muscular.",
-      "Tela subcutânea."
-    ],
-    "correta": 2,
-    "explicacao": "A camada A é a mais superficial: a epiderme, de natureza epitelial."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema tegumentar",
-    "enunciado": "Na figura, a camada indicada pela letra B é de tecido conjuntivo e abriga vasos sanguíneos e terminações nervosas. Ela é a:",
-    "imagem": "images/pele.jpg",
-    "alternativas": [
-      "Epiderme.",
-      "Derme.",
-      "Hipoderme.",
-      "Estrato córneo.",
-      "Perimísio."
-    ],
-    "correta": 1,
-    "explicacao": "A derme (B) é predominantemente conjuntiva e abriga vasos, terminações nervosas e anexos cutâneos."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema tegumentar",
-    "enunciado": "Na figura, a camada indicada pela letra C, situada abaixo da derme, é a:",
-    "imagem": "images/pele.jpg",
-    "alternativas": [
-      "Epiderme.",
-      "Derme.",
-      "Camada basal.",
-      "Hipoderme.",
-      "Estrato lúcido."
-    ],
-    "correta": 3,
-    "explicacao": "A hipoderme (C) é a tela subcutânea abaixo da derme e, segundo os slides, não integra propriamente a pele."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema muscular",
-    "enunciado": "Na figura, o número 2 indica o envoltório que reveste todo o músculo esquelético. Ele é o:",
-    "imagem": "images/musculo-esqueletico.jpg",
-    "alternativas": [
-      "Endomísio.",
-      "Perimísio.",
-      "Epimísio.",
-      "Sarcolema.",
-      "Tendão."
-    ],
-    "correta": 2,
-    "explicacao": "O epimísio (2) envolve o músculo inteiro."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema muscular",
-    "enunciado": "Na figura, o número 5 indica o envoltório de tecido conjuntivo que reveste cada fascículo. Ele é o:",
-    "imagem": "images/musculo-esqueletico.jpg",
-    "alternativas": [
-      "Epimísio.",
-      "Endomísio.",
-      "Pericárdio.",
-      "Perimísio.",
-      "Sarcoplasma."
-    ],
-    "correta": 3,
-    "explicacao": "O perimísio (5) envolve os fascículos."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema muscular",
-    "enunciado": "Na figura, o número 3 indica o tecido conjuntivo que fica entre as fibras musculares, envolvendo cada uma delas. Ele é o:",
-    "imagem": "images/musculo-esqueletico.jpg",
-    "alternativas": [
-      "Perimísio.",
-      "Endomísio.",
-      "Epimísio.",
-      "Fáscia.",
-      "Miofibrila."
-    ],
-    "correta": 1,
-    "explicacao": "O endomísio (3) envolve cada fibra muscular individualmente."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema cardiovascular",
-    "enunciado": "Na figura, qual é o nome da valva indicada pelo número 1, entre o átrio e o ventrículo direitos? (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
+    "enunciado": "Na imagem do coração, qual vaso representa o número 3, que se origina do ventrículo esquerdo?",
     "imagem": "images/coracao.jpg",
     "alternativas": [
-      "Mitral.",
-      "Tricúspide.",
-      "Aórtica.",
-      "Pulmonar.",
-      "Bicúspide."
-    ],
-    "correta": 1,
-    "explicacao": "A valva tricúspide separa o átrio direito do ventrículo direito."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema cardiovascular",
-    "enunciado": "Na figura, a valva indicada pelo número 2, entre o átrio e o ventrículo esquerdos, também é chamada de: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
-    "imagem": "images/coracao.jpg",
-    "alternativas": [
-      "Tricúspide.",
-      "Pulmonar.",
-      "Aórtica.",
-      "Mitral (bicúspide).",
-      "Semilunar direita."
-    ],
-    "correta": 3,
-    "explicacao": "A valva mitral, ou bicúspide, fica entre o átrio e o ventrículo esquerdos."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema cardiovascular",
-    "enunciado": "Na figura, o vaso indicado pelo número 3, que sai do ventrículo esquerdo, é a: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
-    "imagem": "images/coracao.jpg",
-    "alternativas": [
-      "Veia cava superior.",
-      "Veia pulmonar.",
-      "Aorta.",
-      "Tronco pulmonar.",
-      "Veia cava inferior."
-    ],
-    "correta": 2,
-    "explicacao": "A aorta sai do ventrículo esquerdo e leva o sangue à circulação sistêmica."
-  },
-  {
-    "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema cardiovascular",
-    "enunciado": "Na figura, o vaso indicado pelo número 4 leva sangue do ventrículo direito em direção aos pulmões. Ele é o: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
-    "imagem": "images/coracao.jpg",
-    "alternativas": [
-      "Aorta.",
       "Veia cava inferior.",
       "Tronco pulmonar.",
       "Veia pulmonar.",
-      "Artéria carótida esquerda."
+      "Aorta.",
+      "Veia jugular."
     ],
-    "correta": 2,
-    "explicacao": "O tronco pulmonar sai do ventrículo direito e se divide nas artérias pulmonares."
+    "correta": 3,
+    "explicacao": "A) ✗ Veia cava chega ao átrio direito.\nB) ✗ Tronco pulmonar sai do ventrículo direito.\nC) ✗ Veias pulmonares chegam ao átrio esquerdo.\nD) ✓ A aorta recebe sangue do ventrículo esquerdo e o distribui à circulação sistêmica.\nE) ✗ Veia jugular é vaso do pescoço.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "Na figura, a câmara cardíaca indicada pelo número 5, de parede mais espessa, é o: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
+    "enunciado": "Na imagem do coração, a câmara com parede espessa indicada pelo número 5 corresponde ao:",
     "imagem": "images/coracao.jpg",
     "alternativas": [
       "Átrio direito.",
-      "Ventrículo direito.",
       "Átrio esquerdo.",
-      "Ventrículo esquerdo.",
-      "Seio coronário."
+      "Ventrículo direito.",
+      "Septo interatrial.",
+      "Ventrículo esquerdo."
     ],
-    "correta": 3,
-    "explicacao": "O ventrículo esquerdo tem a parede mais espessa e bombeia o sangue para a aorta."
+    "correta": 4,
+    "explicacao": "A) ✗ Átrio direito recebe sangue venoso e possui parede mais fina.\nB) ✗ Átrio esquerdo recebe sangue das veias pulmonares.\nC) ✗ Ventrículo direito ejeta sangue para a circulação pulmonar e tem parede relativamente menos espessa.\nD) ✗ Septo não é uma câmara.\nE) ✓ O ventrículo esquerdo tem parede mais espessa para a circulação sistêmica.",
+    "tipo": "mcq",
+    "fonte": ""
   },
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
-    "tema": "Sistema muscular",
-    "enunciado": "Na figura, o número 6 indica o feixe de fibras musculares envolvido pelo perimísio. Ele é o:",
-    "imagem": "images/musculo-esqueletico.jpg",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "No esquema do trajeto sanguíneo, qual alternativa descreve corretamente a passagem do sangue pelos pulmões?",
+    "imagem": "images/fluxo-sanguineo.svg",
     "alternativas": [
-      "Miofibrila.",
-      "Sarcômero.",
-      "Fascículo.",
-      "Epimísio.",
-      "Tendão."
+      "Sai do ventrículo esquerdo e retorna ao átrio direito.",
+      "Sai do ventrículo direito pelo tronco pulmonar e retorna ao átrio esquerdo pelas veias pulmonares.",
+      "Sai do átrio direito pela aorta.",
+      "Sai do átrio esquerdo por veias cavas.",
+      "Sai da circulação sistêmica diretamente para o ventrículo esquerdo."
+    ],
+    "correta": 1,
+    "explicacao": "A) ✗ Essa não é a trajetória pulmonar.\nB) ✓ Corresponde à circulação pulmonar.\nC) ✗ A aorta sai do ventrículo esquerdo.\nD) ✗ Veias cavas chegam ao átrio direito.\nE) ✗ O sangue retorna da circulação sistêmica pelas veias cavas ao átrio direito.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Na imagem do coração, a estrutura número 2 representa a valva que impede o refluxo do ventrículo esquerdo para o átrio esquerdo. Qual é?",
+    "imagem": "images/coracao.jpg",
+    "alternativas": [
+      "Tricúspide.",
+      "Pulmonar.",
+      "Aórtica.",
+      "Mitral.",
+      "Valva da veia cava."
+    ],
+    "correta": 3,
+    "explicacao": "A) ✗ Tricúspide está à direita.\nB) ✗ Pulmonar está na saída do ventrículo direito.\nC) ✗ Aórtica está na saída do ventrículo esquerdo para a aorta.\nD) ✓ Mitral fica entre átrio e ventrículo esquerdos.\nE) ✗ Não corresponde a essa estrutura anatômica.",
+    "tipo": "mcq",
+    "fonte": ""
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "No esquema de condução, qual estrutura indicada pela letra B fica entre os átrios e os ventrículos e participa do atraso fisiológico do impulso?",
+    "imagem": "images/conducao-coracao.svg",
+    "alternativas": [
+      "Valva mitral.",
+      "Nó sinoatrial.",
+      "Nó atrioventricular.",
+      "Aorta.",
+      "Músculo papilar."
     ],
     "correta": 2,
-    "explicacao": "O fascículo é um feixe de fibras musculares envolvido pelo perimísio."
+    "explicacao": "A) ✗ A valva regula fluxo sanguíneo, não gera atraso elétrico.\nB) ✗ O nó SA inicia impulsos no átrio direito, assinalado como A.\nC) ✓ O nó AV retarda brevemente a condução para permitir enchimento ventricular.\nD) ✗ Aorta é artéria sistêmica.\nE) ✗ Músculos papilares tensionam as cordas tendíneas.",
+    "tipo": "mcq",
+    "fonte": ""
   }
 ]
