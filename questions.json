@@ -32,8 +32,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "A estrutura formada principalmente por colágeno que liga o músculo esquelético ao osso é:",
-    "imagem": "",
+    "enunciado": "Na figura, a estrutura indicada pelo número 1, formada principalmente por colágeno, liga o músculo esquelético ao osso. Ela é:",
+    "imagem": "images/musculo-esqueletico.jpg",
     "alternativas": [
       "Sarcolema.",
       "Tendão.",
@@ -77,8 +77,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "No roteiro prático, o músculo destacado na região anterior do tórax com ampla participação nos movimentos do braço é o:",
-    "imagem": "",
+    "enunciado": "Na figura do modelo anatômico, o músculo indicado pelo número 1, na região anterior do tórax e com ampla participação nos movimentos do braço, é o:",
+    "imagem": "images/torax-muscular.jpg",
     "alternativas": [
       "Glúteo máximo.",
       "Tibial anterior.",
@@ -92,8 +92,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "O músculo da face destacado no roteiro prático e relacionado à mastigação é:",
-    "imagem": "",
+    "enunciado": "O músculo da face destacado em vermelho na figura, relacionado à mastigação, é o:",
+    "imagem": "images/masseter.jpg",
     "alternativas": [
       "Orbicular do olho.",
       "Masseter.",
@@ -107,8 +107,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "O músculo destacado na região anterior da perna, importante na dorsiflexão do pé, é:",
-    "imagem": "",
+    "enunciado": "O músculo destacado em laranja na região anterior da perna, importante na dorsiflexão do pé, é:",
+    "imagem": "images/tibial-anterior.jpg",
     "alternativas": [
       "Gastrocnêmio lateral.",
       "Bíceps femoral.",
@@ -283,5 +283,245 @@
     ],
     "correta": 0,
     "explicacao": "I - V: sístole é a contração, associada à ejeção de sangue.\nII - V: diástole é o relaxamento e enchimento das cavidades.\nIII - F: a mitral fica entre átrio e ventrículo ESQUERDOS; à direita está a tricúspide.\nIV - V: o feixe AV (de His) conduz o impulso aos ramos ventriculares e fibras de Purkinje."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Durante a flexão do cotovelo, o músculo que atua como antagonista, realizando o movimento oposto (extensão), é o:",
+    "imagem": "",
+    "alternativas": [
+      "Bíceps braquial.",
+      "Tríceps braquial.",
+      "Peitoral maior.",
+      "Masseter.",
+      "Tibial anterior."
+    ],
+    "correta": 1,
+    "explicacao": "O tríceps braquial estende o cotovelo e se opõe ao bíceps, que é o agonista da flexão."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "Na figura, qual é a estrutura anexa da pele indicada pela letra J, responsável pela produção do suor?",
+    "imagem": "images/pele.jpg",
+    "alternativas": [
+      "Glândulas sebáceas.",
+      "Folículos pilosos.",
+      "Unhas.",
+      "Glândulas sudoríferas.",
+      "Hipoderme."
+    ],
+    "correta": 3,
+    "explicacao": "As glândulas sudoríferas produzem o suor, que participa da termorregulação."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "As veias pulmonares trazem sangue dos pulmões e desembocam no:",
+    "imagem": "",
+    "alternativas": [
+      "Átrio direito.",
+      "Ventrículo direito.",
+      "Átrio esquerdo.",
+      "Ventrículo esquerdo.",
+      "Tronco pulmonar."
+    ],
+    "correta": 2,
+    "explicacao": "As veias pulmonares chegam ao átrio esquerdo; dali o sangue passa pela valva mitral ao ventrículo esquerdo."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Na sístole ventricular, o que ocorre?",
+    "imagem": "",
+    "alternativas": [
+      "Relaxamento e enchimento das câmaras.",
+      "Contração e ejeção de sangue.",
+      "Fechamento do nó sinoatrial.",
+      "Passagem de sangue das veias para o átrio sem controle valvar.",
+      "Parada da condução elétrica."
+    ],
+    "correta": 1,
+    "explicacao": "A sístole é a contração, com ejeção do sangue. O relaxamento com enchimento é a diástole."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "Na figura, que mostra um corte da pele, a camada indicada pela letra A é a:",
+    "imagem": "images/pele.jpg",
+    "alternativas": [
+      "Derme.",
+      "Hipoderme.",
+      "Epiderme.",
+      "Fáscia muscular.",
+      "Tela subcutânea."
+    ],
+    "correta": 2,
+    "explicacao": "A camada A é a mais superficial: a epiderme, de natureza epitelial."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "Na figura, a camada indicada pela letra B é de tecido conjuntivo e abriga vasos sanguíneos e terminações nervosas. Ela é a:",
+    "imagem": "images/pele.jpg",
+    "alternativas": [
+      "Epiderme.",
+      "Derme.",
+      "Hipoderme.",
+      "Estrato córneo.",
+      "Perimísio."
+    ],
+    "correta": 1,
+    "explicacao": "A derme (B) é predominantemente conjuntiva e abriga vasos, terminações nervosas e anexos cutâneos."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema tegumentar",
+    "enunciado": "Na figura, a camada indicada pela letra C, situada abaixo da derme, é a:",
+    "imagem": "images/pele.jpg",
+    "alternativas": [
+      "Epiderme.",
+      "Derme.",
+      "Camada basal.",
+      "Hipoderme.",
+      "Estrato lúcido."
+    ],
+    "correta": 3,
+    "explicacao": "A hipoderme (C) é a tela subcutânea abaixo da derme e, segundo os slides, não integra propriamente a pele."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Na figura, o número 2 indica o envoltório que reveste todo o músculo esquelético. Ele é o:",
+    "imagem": "images/musculo-esqueletico.jpg",
+    "alternativas": [
+      "Endomísio.",
+      "Perimísio.",
+      "Epimísio.",
+      "Sarcolema.",
+      "Tendão."
+    ],
+    "correta": 2,
+    "explicacao": "O epimísio (2) envolve o músculo inteiro."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Na figura, o número 5 indica o envoltório de tecido conjuntivo que reveste cada fascículo. Ele é o:",
+    "imagem": "images/musculo-esqueletico.jpg",
+    "alternativas": [
+      "Epimísio.",
+      "Endomísio.",
+      "Pericárdio.",
+      "Perimísio.",
+      "Sarcoplasma."
+    ],
+    "correta": 3,
+    "explicacao": "O perimísio (5) envolve os fascículos."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Na figura, o número 3 indica o tecido conjuntivo que fica entre as fibras musculares, envolvendo cada uma delas. Ele é o:",
+    "imagem": "images/musculo-esqueletico.jpg",
+    "alternativas": [
+      "Perimísio.",
+      "Endomísio.",
+      "Epimísio.",
+      "Fáscia.",
+      "Miofibrila."
+    ],
+    "correta": 1,
+    "explicacao": "O endomísio (3) envolve cada fibra muscular individualmente."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Na figura, qual é o nome da valva indicada pelo número 1, entre o átrio e o ventrículo direitos? (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
+    "imagem": "images/coracao.jpg",
+    "alternativas": [
+      "Mitral.",
+      "Tricúspide.",
+      "Aórtica.",
+      "Pulmonar.",
+      "Bicúspide."
+    ],
+    "correta": 1,
+    "explicacao": "A valva tricúspide separa o átrio direito do ventrículo direito."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Na figura, a valva indicada pelo número 2, entre o átrio e o ventrículo esquerdos, também é chamada de: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
+    "imagem": "images/coracao.jpg",
+    "alternativas": [
+      "Tricúspide.",
+      "Pulmonar.",
+      "Aórtica.",
+      "Mitral (bicúspide).",
+      "Semilunar direita."
+    ],
+    "correta": 3,
+    "explicacao": "A valva mitral, ou bicúspide, fica entre o átrio e o ventrículo esquerdos."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Na figura, o vaso indicado pelo número 3, que sai do ventrículo esquerdo, é a: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
+    "imagem": "images/coracao.jpg",
+    "alternativas": [
+      "Veia cava superior.",
+      "Veia pulmonar.",
+      "Aorta.",
+      "Tronco pulmonar.",
+      "Veia cava inferior."
+    ],
+    "correta": 2,
+    "explicacao": "A aorta sai do ventrículo esquerdo e leva o sangue à circulação sistêmica."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Na figura, o vaso indicado pelo número 4 leva sangue do ventrículo direito em direção aos pulmões. Ele é o: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
+    "imagem": "images/coracao.jpg",
+    "alternativas": [
+      "Aorta.",
+      "Veia cava inferior.",
+      "Tronco pulmonar.",
+      "Veia pulmonar.",
+      "Artéria carótida esquerda."
+    ],
+    "correta": 2,
+    "explicacao": "O tronco pulmonar sai do ventrículo direito e se divide nas artérias pulmonares."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema cardiovascular",
+    "enunciado": "Na figura, a câmara cardíaca indicada pelo número 5, de parede mais espessa, é o: (Figura em posição anatômica: o lado direito do paciente fica à esquerda da imagem.)",
+    "imagem": "images/coracao.jpg",
+    "alternativas": [
+      "Átrio direito.",
+      "Ventrículo direito.",
+      "Átrio esquerdo.",
+      "Ventrículo esquerdo.",
+      "Seio coronário."
+    ],
+    "correta": 3,
+    "explicacao": "O ventrículo esquerdo tem a parede mais espessa e bombeia o sangue para a aorta."
+  },
+  {
+    "disciplina": "Morfofisiologia dos Sistemas I",
+    "tema": "Sistema muscular",
+    "enunciado": "Na figura, o número 6 indica o feixe de fibras musculares envolvido pelo perimísio. Ele é o:",
+    "imagem": "images/musculo-esqueletico.jpg",
+    "alternativas": [
+      "Miofibrila.",
+      "Sarcômero.",
+      "Fascículo.",
+      "Epimísio.",
+      "Tendão."
+    ],
+    "correta": 2,
+    "explicacao": "O fascículo é um feixe de fibras musculares envolvido pelo perimísio."
   }
 ]
