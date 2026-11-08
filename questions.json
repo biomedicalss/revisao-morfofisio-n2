@@ -3,7 +3,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
     "enunciado": "O sistema muscular desempenha funções importantes na homeostasia. Qual é uma dessas funções?",
-    "imagem": "images/flexao-cotovelo.svg",
+    "imagem": "images/musculatura-anterior.png",
     "alternativas": [
       "Produzir bile para a digestão.",
       "Realizar filtração do plasma sanguíneo.",
@@ -19,8 +19,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "No esquema, qual alternativa identifica corretamente o tecido marcado pela letra C?",
-    "imagem": "images/tipos-tecido-muscular.svg",
+    "enunciado": "Nas fotomicrografias (a), (b) e (c), qual alternativa identifica corretamente o tecido muscular exibido em (b)?",
+    "imagem": "images/histologia-muscular.png",
     "alternativas": [
       "Músculo liso e voluntário.",
       "Músculo estriado esquelético e involuntário.",
@@ -29,7 +29,7 @@
       "Músculo liso exclusivo dos ossos."
     ],
     "correta": 2,
-    "explicacao": "A) ✗ O músculo liso é involuntário e não estriado.\nB) ✗ O músculo estriado esquelético é geralmente voluntário e aparece como fibras paralelas, não ramificadas.\nC) ✓ A figura C mostra fibras estriadas ramificadas, características do músculo cardíaco.\nD) ✗ Tendões são estruturas conjuntivas, não fibras musculares ramificadas.\nE) ✗ O músculo liso está em vários órgãos e vasos.",
+    "explicacao": "A) Incorreta: o músculo liso não apresenta estriações e sua contração é involuntária.\nB) Incorreta: o músculo estriado esquelético corresponde à imagem (a), não (b).\nC) Correta: a imagem (b) mostra tecido muscular cardíaco, com fibras estriadas e núcleos centrais; está presente no miocárdio.\nD) Incorreta: tendões são formados principalmente por tecido conjuntivo rico em colágeno.\nE) Incorreta: músculo liso não é exclusivo dos ossos; ocorre em paredes de órgãos e vasos.",
     "tipo": "mcq",
     "fonte": ""
   },
@@ -53,8 +53,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "No esquema de organização muscular, qual tecido conjuntivo envolve individualmente cada fibra muscular (letra C)?",
-    "imagem": "images/envoltorios-musculares.svg",
+    "enunciado": "A organização do músculo esquelético inclui envoltórios conjuntivos. Qual deles envolve individualmente cada fibra muscular?",
+    "imagem": "images/envoltorios-foto.png",
     "alternativas": [
       "Epimísio.",
       "Perimísio.",
@@ -71,7 +71,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
     "enunciado": "No movimento ilustrado, o bíceps braquial contribui diretamente para flexionar o cotovelo. Como é classificado nesta ação?",
-    "imagem": "images/flexao-cotovelo.svg",
+    "imagem": "images/musculatura-anterior.png",
     "alternativas": [
       "Agonista.",
       "Antagonista principal da flexão.",
@@ -104,8 +104,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Observe a ilustração lateral da cabeça. Qual músculo superficial, destacado na região do ramo da mandíbula, eleva a mandíbula na mastigação?",
-    "imagem": "images/masseter.jpg",
+    "enunciado": "Na imagem da cabeça em vista lateral, qual músculo superficial da região do ramo da mandíbula está relacionado à mastigação?",
+    "imagem": "images/masseter-anatomico.png",
     "alternativas": [
       "Orbicular do olho.",
       "Masseter.",
@@ -139,7 +139,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
     "enunciado": "Observe o esquema da pele. Qual alternativa descreve uma função do sistema tegumentar?",
-    "imagem": "images/pele-funcoes.svg",
+    "imagem": "images/pele-nci.png",
     "alternativas": [
       "Não participa da sensibilidade.",
       "É formado somente pela hipoderme.",
@@ -189,8 +189,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "No esquema da epiderme de pele espessa, qual sequência corresponde às camadas 5 até 1 (da mais profunda à mais superficial)?",
-    "imagem": "images/camadas-epiderme.svg",
+    "enunciado": "Considerando a pele espessa representada na figura, qual sequência apresenta os estratos epidérmicos da região mais profunda para a mais superficial?",
+    "imagem": "images/estratos-epiderme.png",
     "alternativas": [
       "Córnea, lúcida, granulosa, espinhosa, basal.",
       "Basal, espinhosa, granulosa, lúcida, córnea.",
@@ -206,8 +206,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "No esquema das cavidades cardíacas, a valva A entre átrio e ventrículo direitos é a:",
-    "imagem": "images/estruturas-coracao.svg",
+    "enunciado": "Na imagem anatômica numerada, a valva indicada pelo número 1, entre o átrio e o ventrículo direitos, é a:",
+    "imagem": "images/coracao.jpg",
     "alternativas": [
       "Mitral.",
       "Aórtica.",
@@ -223,8 +223,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "No mesmo esquema, a valva B entre átrio e ventrículo esquerdos também é chamada de:",
-    "imagem": "images/estruturas-coracao.svg",
+    "enunciado": "Na imagem anatômica numerada, a valva indicada pelo número 2, entre o átrio e o ventrículo esquerdos, também é chamada de:",
+    "imagem": "images/coracao.jpg",
     "alternativas": [
       "Mitral ou bicúspide.",
       "Tricúspide.",
@@ -257,8 +257,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "Qual estrutura marcada com a letra A no esquema de condução inicia normalmente os impulsos elétricos do coração?",
-    "imagem": "images/conducao-coracao.svg",
+    "enunciado": "Qual estrutura cardíaca funciona como marcapasso natural, iniciando normalmente os impulsos elétricos que coordenam os batimentos?",
+    "imagem": "images/coracao-modelo.png",
     "alternativas": [
       "Feixe de His.",
       "Nó sinoatrial.",
@@ -275,7 +275,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
     "enunciado": "Julgue as afirmativas e assinale a sequência correta:\n(1) O epimísio envolve todo o músculo.\n(2) O perimísio envolve fascículos.\n(3) O endomísio envolve individualmente as fibras.\n(4) O músculo liso possui estriações visíveis como o esquelético.",
-    "imagem": "images/envoltorios-musculares.svg",
+    "imagem": "images/envoltorios-foto.png",
     "alternativas": [
       "V – F – V – F",
       "V – V – V – F",
@@ -307,7 +307,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
     "enunciado": "Julgue as afirmativas e assinale a sequência correta:\n(1) Na sístole ventricular, ocorre contração e ejeção de sangue.\n(2) Na diástole ventricular, ocorre relaxamento e enchimento.\n(3) A valva mitral situa-se entre átrio e ventrículo direitos.\n(4) O feixe atrioventricular participa da condução elétrica aos ventrículos.",
-    "imagem": "images/conducao-coracao.svg",
+    "imagem": "images/valvas-modelo.png",
     "alternativas": [
       "V – V – F – V",
       "V – F – F – V",
@@ -333,7 +333,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
     "enunciado": "Descreva o caminho do sangue das veias cavas até a aorta, incluindo câmaras, valvas e os pulmões.",
-    "imagem": "images/fluxo-sanguineo.svg",
+    "imagem": "images/circulacao-real.png",
     "alternativas": [],
     "correta": null,
     "explicacao": "Veias cavas → átrio direito → valva tricúspide → ventrículo direito → valva pulmonar → tronco/artérias pulmonares → pulmões → veias pulmonares → átrio esquerdo → valva mitral → ventrículo esquerdo → valva aórtica → aorta.\n\nPontos esperados:\n• Passagem pelas câmaras direitas e pela valva tricúspide.\n• Passagem pela circulação pulmonar e retorno pelas veias pulmonares.\n• Passagem pelas câmaras esquerdas e pela valva mitral.\n• Saída pela valva aórtica e aorta.",
@@ -343,7 +343,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
     "enunciado": "Na imagem do músculo lateral da mandíbula, qual ação está associada ao músculo masseter?",
-    "imagem": "images/masseter.jpg",
+    "imagem": "images/masseter-anatomico.png",
     "alternativas": [
       "Extensão do joelho.",
       "Elevação da mandíbula.",
@@ -376,8 +376,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Na figura da perna, qual movimento é produzido principalmente pelo tibial anterior?",
-    "imagem": "images/tibial-anterior.jpg",
+    "enunciado": "O músculo tibial anterior, identificado na figura anatômica dos músculos da região do tornozelo e pé, participa principalmente de qual movimento do pé?",
+    "imagem": "images/musculos-pe.png",
     "alternativas": [
       "Flexão plantar.",
       "Extensão do joelho.",
@@ -410,17 +410,17 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema muscular",
-    "enunciado": "Observe os padrões A, B e C dos tecidos. Qual letra apresenta tecido muscular liso?",
-    "imagem": "images/tipos-tecido-muscular.svg",
+    "enunciado": "Nas fotomicrografias identificadas por (a), (b) e (c), em qual região aparece tecido muscular liso?",
+    "imagem": "images/histologia-muscular.png",
     "alternativas": [
-      "A, pelas estriações paralelas.",
-      "B, pelas células fusiformes sem estriações.",
-      "C, pelas fibras ramificadas e estriadas.",
-      "A e C, por serem não estriados.",
-      "Nenhuma, porque todos são tecidos ósseos."
+      "(a), por mostrar fibras longas, paralelas e estriadas.",
+      "(c), por apresentar células fusiformes sem estriações.",
+      "(b), pelas fibras ramificadas e estriadas.",
+      "(a) e (b), por serem tecidos não estriados.",
+      "Nenhuma: todas mostram tecido ósseo."
     ],
     "correta": 1,
-    "explicacao": "A) ✗ A representa tecido muscular estriado esquelético.\nB) ✓ B apresenta células fusiformes e ausência de estriações, típico do liso.\nC) ✗ C representa tecido estriado cardíaco.\nD) ✗ A e C são estriados.\nE) ✗ Os três desenhos representam tecido muscular.",
+    "explicacao": "A) Incorreta: (a) é músculo estriado esquelético.\nB) Correta: (c) apresenta músculo liso, com células alongadas e sem estriações transversais.\nC) Incorreta: (b) mostra músculo estriado cardíaco.\nD) Incorreta: os tecidos (a) e (b) apresentam estriações.\nE) Incorreta: as três imagens apresentam tipos de tecido muscular.",
     "tipo": "mcq",
     "fonte": ""
   },
@@ -444,8 +444,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "Na figura, a estrutura indicada pela letra E fica associada a um folículo piloso e secreta substância oleosa. Ela é:",
-    "imagem": "images/pele.jpg",
+    "enunciado": "Na fotomicrografia da pele, qual estrutura associada ao folículo piloso é responsável por produzir uma secreção oleosa chamada sebo?",
+    "imagem": "images/foliculo-histologia.png",
     "alternativas": [
       "Glândula sebácea.",
       "Glândula sudorífera.",
@@ -454,7 +454,7 @@
       "Epiderme inteira."
     ],
     "correta": 0,
-    "explicacao": "A) ✓ Glândula sebácea produz sebo e costuma desembocar no folículo piloso.\nB) ✗ Glândulas sudoríferas produzem suor e têm outro aspecto.\nC) ✗ Não é tecido muscular cardíaco.\nD) ✗ O corpúsculo renal é do rim.\nE) ✗ A epiderme é camada, não glândula.",
+    "explicacao": "A) Correta: a glândula sebácea produz sebo, que contribui para a lubrificação da pele e dos pelos.\nB) Incorreta: a glândula sudorífera produz suor, não sebo.\nC) Incorreta: músculo cardíaco não é um anexo da pele.\nD) Incorreta: o corpúsculo renal é uma estrutura do rim.\nE) Incorreta: a epiderme é uma camada da pele, e não a glândula produtora de sebo.",
     "tipo": "mcq",
     "fonte": ""
   },
@@ -478,8 +478,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema tegumentar",
-    "enunciado": "No esquema de pele espessa, qual estrato é representado pelo número 2, imediatamente profundo ao córneo?",
-    "imagem": "images/camadas-epiderme.svg",
+    "enunciado": "Na pele espessa mostrada na figura, qual estrato epidérmico fica imediatamente abaixo do estrato córneo?",
+    "imagem": "images/estratos-epiderme.png",
     "alternativas": [
       "Basal.",
       "Lúcido.",
@@ -530,7 +530,7 @@
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
     "enunciado": "No esquema do trajeto sanguíneo, qual alternativa descreve corretamente a passagem do sangue pelos pulmões?",
-    "imagem": "images/fluxo-sanguineo.svg",
+    "imagem": "images/circulacao-real.png",
     "alternativas": [
       "Sai do ventrículo esquerdo e retorna ao átrio direito.",
       "Sai do ventrículo direito pelo tronco pulmonar e retorna ao átrio esquerdo pelas veias pulmonares.",
@@ -563,8 +563,8 @@
   {
     "disciplina": "Morfofisiologia dos Sistemas I",
     "tema": "Sistema cardiovascular",
-    "enunciado": "No esquema de condução, qual estrutura indicada pela letra B fica entre os átrios e os ventrículos e participa do atraso fisiológico do impulso?",
-    "imagem": "images/conducao-coracao.svg",
+    "enunciado": "No sistema de condução cardíaco, qual estrutura promove o atraso fisiológico na passagem do impulso dos átrios aos ventrículos?",
+    "imagem": "images/coracao-modelo.png",
     "alternativas": [
       "Valva mitral.",
       "Nó sinoatrial.",
