@@ -39,13 +39,13 @@ button:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-vis
 .item{display:flex;justify-content:space-between;gap:10px;align-items:center;padding:10px 0;border-top:1px solid var(--line)}
 .item small{color:var(--mute);display:block}
 .hint{font-size:13px;color:var(--mute);margin-top:4px}
-.prev{max-width:200px;max-height:120px;margin-top:8px;border-radius:6px;display:block}
+.bar2{position:sticky;top:8px;z-index:5;display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 16px}.prev{max-width:200px;max-height:120px;margin-top:8px;border-radius:6px;display:block}
 </style>
 </head>
 <body>
 <header>
   <h1 id="title">Revisão de provas</h1>
-  <p id="sub">Pratique com questões de alternativas e veja a explicação de cada resposta.</p>
+  <p id="sub">Responda as questões e veja a explicação logo após escolher cada alternativa.</p>
 </header>
 <main id="app"></main>
 
@@ -74,61 +74,32 @@ const save=()=>{try{localStorage.setItem("rev_draft",JSON.stringify(Q))}catch(e)
 
 /* ---------- ALUNO ---------- */
 function home(){
-  const subs=[...new Set(Q.map(q=>q.disciplina).filter(Boolean))];
-  app.innerHTML=`<div class="card">
-    <label for="f-d">Disciplina</label>
-    <select id="f-d"><option value="">Todas (${Q.length} questões)</option>${subs.map(s=>`<option>${esc(s)}</option>`).join("")}</select>
-    <label for="f-t">Tema</label>
-    <select id="f-t"><option value="">Todos</option></select>
-    <label for="f-n">Quantidade de questões</label>
-    <input id="f-n" type="number" min="1" value="10">
-    <label style="font-weight:400;display:flex;gap:8px;align-items:center"><input id="f-s" type="checkbox" checked style="width:auto"> Embaralhar a ordem das questões</label>
-    <div class="row"><button class="p" id="go">Começar revisão</button></div>
-  </div>`;
-  const fd=$("#f-d"),ft=$("#f-t");
-  const fillT=()=>{const t=[...new Set(Q.filter(q=>!fd.value||q.disciplina===fd.value).map(q=>q.tema).filter(Boolean))];
-    ft.innerHTML='<option value="">Todos</option>'+t.map(x=>`<option>${esc(x)}</option>`).join("")};
-  fd.onchange=fillT;fillT();
-  $("#go").onclick=()=>{
-    let l=Q.filter(q=>(!fd.value||q.disciplina===fd.value)&&(!ft.value||q.tema===ft.value));
-    if(!l.length)return alert("Nenhuma questão para esse filtro.");
-    if($("#f-s").checked)l=[...l].sort(()=>Math.random()-.5);
-    l=l.slice(0,Math.max(1,+$("#f-n").value||10));
-    start(l);
-  };
-}
-function start(list){S={list,i:0,score:0,wrong:[]};ask()}
-function ask(){
-  const q=S.list[S.i],n=S.list.length;
-  app.innerHTML=`<div class="card">
-    <div class="meta"><span>Questão ${S.i+1} de ${n}</span><span>${esc(q.disciplina||"")}${q.tema?" · "+esc(q.tema):""}</span></div>
-    <div class="bar"><i style="width:${S.i/n*100}%"></i></div>
+  const d=[...new Set(Q.map(q=>q.disciplina).filter(Boolean))];
+  if(d.length===1)$("#title").textContent="Revisão — "+d[0];
+  S={done:{},score:0};
+  app.innerHTML=`<div class="card bar2" id="bar"></div>`+Q.map((q,n)=>`<div class="card" id="q${n}">
+    <div class="meta"><span>Questão ${n+1}</span></div>
     <p class="q">${esc(q.enunciado)}</p>
     ${q.imagem?`<img class="q-img" src="${esc(q.imagem)}" alt="Imagem da questão" onerror="this.style.display='none'">`:""}
-    <div id="opts">${q.alternativas.map((a,i)=>`<button class="opt" data-i="${i}"><b>${L[i]})</b><span>${esc(a)}</span></button>`).join("")}</div>
-    <div id="fb"></div></div>`;
-  document.querySelectorAll(".opt").forEach(b=>b.onclick=()=>answer(+b.dataset.i));
+    ${q.alternativas.map((t,i)=>`<button class="opt" data-q="${n}" data-i="${i}"><b>${L[i]})</b><span>${esc(t)}</span></button>`).join("")}
+    <div class="fb"></div></div>`).join("");
+  bar();
 }
-function answer(i){
-  const q=S.list[S.i],ok=i===q.correta;
-  document.querySelectorAll(".opt").forEach((b,k)=>{b.disabled=true;if(k===q.correta)b.classList.add("ok");else if(k===i)b.classList.add("bad")});
-  if(ok)S.score++;else S.wrong.push(q);
-  const last=S.i===S.list.length-1;
-  $("#fb").innerHTML=`<p><b style="color:var(--${ok?"ok":"bad"})">${ok?"Correto.":"Incorreto. A resposta certa é a "+L[q.correta]+"."}</b></p>
-    ${q.explicacao?`<div class="exp">${esc(q.explicacao)}</div>`:""}
-    <div class="row"><button class="p" id="nx">${last?"Ver resultado":"Próxima questão"}</button></div>`;
-  $("#nx").focus();
-  $("#nx").onclick=()=>{if(last)result();else{S.i++;ask()}};
+function bar(){
+  const r=Object.keys(S.done).length;
+  $("#bar").innerHTML=`<span>Respondidas: <b>${r}/${Q.length}</b> · Acertos: <b>${S.score}</b></span><button id="rs">Recomeçar</button>`;
+  $("#rs").onclick=()=>{home();scrollTo(0,0)};
 }
-function result(){
-  const n=S.list.length,pct=Math.round(S.score/n*100);
-  app.innerHTML=`<div class="card"><div class="meta">Resultado</div>
-    <div class="score">${S.score}/${n} <span style="font-size:20px;color:var(--mute)">(${pct}%)</span></div>
-    <div class="row">${S.wrong.length?`<button class="p" id="rw">Refazer as ${S.wrong.length} que errei</button>`:""}<button id="hm">Nova revisão</button></div></div>
-    ${S.wrong.length?`<div class="card"><b>Para revisar</b>${S.wrong.map(q=>`<div class="item"><div>${esc(q.enunciado.slice(0,140))}${q.enunciado.length>140?"…":""}<small>Resposta certa: ${L[q.correta]}) ${esc(q.alternativas[q.correta])}</small></div></div>`).join("")}</div>`:""}`;
-  if($("#rw"))$("#rw").onclick=()=>start(S.wrong);
-  $("#hm").onclick=home;
-}
+app.addEventListener("click",e=>{
+  const b=e.target.closest(".opt");if(!b||admin)return;
+  const n=+b.dataset.q,i=+b.dataset.i,q=Q[n];
+  if(S.done[n]!==undefined)return;
+  S.done[n]=i;const ok=i===q.correta;if(ok)S.score++;
+  const c=$("#q"+n);
+  c.querySelectorAll(".opt").forEach((x,k)=>{x.disabled=true;if(k===q.correta)x.classList.add("ok");else if(k===i)x.classList.add("bad")});
+  c.querySelector(".fb").innerHTML=`<p><b style="color:var(--${ok?"ok":"bad"})">${ok?"Correto.":"Incorreto. A resposta certa é a "+L[q.correta]+"."}</b></p>${q.explicacao?`<div class="exp">${esc(q.explicacao)}</div>`:""}`;
+  bar();
+});
 
 /* ---------- ADMIN (?admin na URL) ---------- */
 function adminView(){
